@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaPlayerTraining</string>
+    <string name="trackUp">+30sec</string>
+    <string name="trackDown">-30sec</string>
+</resources>
